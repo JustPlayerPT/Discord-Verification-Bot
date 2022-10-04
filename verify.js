@@ -29,4 +29,3 @@ client.on('guildMemberAdd', member => {
 
 
 
-// Free to use
